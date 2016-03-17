@@ -1,0 +1,8 @@
+C:\Users\lenovo\Desktop\test\net-ping\net-ping\bin\Debug\net-ping.exe
+C:\Users\lenovo\Desktop\test\net-ping\net-ping\bin\Debug\net-ping.pdb
+C:\Users\lenovo\Desktop\test\net-ping\net-ping\obj\x86\Debug\net_ping.Form1.resources
+C:\Users\lenovo\Desktop\test\net-ping\net-ping\obj\x86\Debug\net_ping.Properties.Resources.resources
+C:\Users\lenovo\Desktop\test\net-ping\net-ping\obj\x86\Debug\net-ping.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\test\net-ping\net-ping\obj\x86\Debug\net-ping.exe
+C:\Users\lenovo\Desktop\test\net-ping\net-ping\obj\x86\Debug\net-ping.pdb
+C:\Users\lenovo\Desktop\test\net-ping\net-ping\obj\x86\Debug\net-ping.csprojResolveAssemblyReference.cache
